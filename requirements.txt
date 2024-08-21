@@ -1,0 +1,13 @@
+torch
+torchvision
+tensorflow
+transformers
+opencv-python
+pytesseract
+Pillow
+streamlit
+pandas
+matplotlib
+ultralytics
+easyocr
+sentencepiece
