@@ -1,5 +1,5 @@
 
-# AI Pipeline for Image Segmentation and Object Analysis
+# AI Pipeline for Image Segmentation and Object Analysis(https://huggingface.co/spaces/JaydeepR/Aipipelinefinal)
 
 This project is an AI-driven pipeline designed to process images for segmentation, object extraction, identification, text/data extraction, and summarization. The pipeline is implemented using various deep learning models and tools, and provides an interactive user interface via Streamlit. The project is modular, with clear separation of concerns
 
