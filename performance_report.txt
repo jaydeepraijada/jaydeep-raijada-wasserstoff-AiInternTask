@@ -1,0 +1,24 @@
+
+--- Performance Report ---
+Report generated at: 2024-10-12 10:23:00
+Total execution time: 775.80 seconds
+Total PDFs processed: 18
+Successfully processed PDFs: 18
+Failed PDFs: 0
+Success rate: 100.00%
+
+PDF Processing Times:
+Total processing time: 4438.01 seconds
+Average processing time per document: 246.56 seconds
+Minimum processing time: 74.80 seconds
+Maximum processing time: 433.89 seconds
+Median processing time: 244.67 seconds
+
+Content Analysis:
+Average summary length: 1209.61 characters
+Average number of keywords: 10.00
+
+Concurrency Metrics:
+Maximum PDFs processed concurrently: 10
+Average concurrent PDFs: 5.00
+--- End of Report ---

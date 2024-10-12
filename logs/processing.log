@@ -1,0 +1,438 @@
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 1.67 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf10.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 0.12 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf11.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 0.27 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf12.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 0.19 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 0.12 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 0.78 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf15.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 0.28 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf16.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 1.01 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf17.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 0.02 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf18.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 0.33 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 0.37 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf3.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf in 3.80 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf4.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf in 0.16 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf5.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf in 1.75 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf6.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf in 0.19 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf7.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf in 0.14 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf8.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf in 0.17 seconds
+ERROR:src.text_summarizer:Error summarizing text: 'NoneType' object is not callable
+ERROR:src.database_handler:Error updating MongoDB for pdf9.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf in 0.11 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 752.74 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 707.85 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 685.06 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 634.70 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 587.80 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 544.39 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 512.31 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 459.04 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 411.75 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 391.51 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 338.14 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf in 296.79 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf in 247.67 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf in 209.72 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf in 170.36 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf in 124.83 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf in 91.77 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf in 44.26 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 45.71 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf10.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 23.02 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf11.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 48.78 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf12.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 47.59 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 44.05 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 46.19 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf10.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 26.16 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf11.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 56.47 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf12.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 46.81 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 41.38 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 30.61 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf15.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 51.78 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf16.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 42.96 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf17.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 18.85 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf18.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 52.16 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 47.85 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf3.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf in 46.59 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf4.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf in 35.42 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf5.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf in 39.90 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf6.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf in 41.74 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf7.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf in 27.42 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf8.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf in 48.06 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf9.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf in 51.52 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 45.34 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 41.18 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 45.34 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 55.65 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 35.57 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf15.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 44.05 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf16.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 39.15 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf17.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 19.59 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf18.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 52.64 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 39.73 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 44.05 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 42.40 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 33.92 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 39.75 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 42.10 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 38.87 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 29.54 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 39.79 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 45.18 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 41.52 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 30.82 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 43.49 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 45.57 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf10.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 21.44 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf11.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 44.36 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf12.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 50.07 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 43.41 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 28.39 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf15.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 45.97 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf16.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 46.62 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf17.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 19.05 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf18.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 42.02 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 38.68 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf3.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf in 55.35 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf4.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf in 34.67 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf5.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf in 34.97 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf6.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf in 39.72 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf7.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf in 30.05 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf8.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf in 49.65 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf9.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf in 42.66 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 0.24 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 34.85 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 1.51 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf1.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 0.01 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf in 36.61 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf took 0.03 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf took 20.26 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf took 0.15 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf10.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf10.pdf in 20.44 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf took 0.06 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf took 41.72 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf took 0.23 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf11.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf11.pdf in 42.02 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf took 0.07 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf took 46.12 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf took 0.32 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf12.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf12.pdf in 46.51 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf took 0.03 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf took 41.75 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf took 0.14 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf13.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf13.pdf in 41.92 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf took 0.25 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf took 27.05 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf took 0.59 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf14.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf14.pdf in 27.89 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf took 0.05 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf took 44.67 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf took 0.24 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf15.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf15.pdf in 44.95 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf took 0.19 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf took 43.66 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf took 0.94 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf16.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf16.pdf in 44.79 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf took 0.01 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf took 18.43 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf took 0.03 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf17.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf17.pdf in 18.47 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf took 0.08 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf took 41.15 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf took 0.48 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf18.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf18.pdf in 41.71 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 0.06 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 39.53 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 0.47 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf2.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf in 40.06 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 0.58 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 49.79 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 3.14 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf3.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf in 53.52 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 0.04 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 31.40 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 0.19 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf4.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf in 31.63 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 0.41 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 31.49 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 1.12 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf5.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf in 33.02 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 0.05 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 39.96 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 0.36 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf6.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf in 40.37 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf took 0.04 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf took 30.04 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf took 0.21 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf7.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf7.pdf in 30.30 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf took 0.07 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf took 49.07 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf took 0.22 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf8.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf8.pdf in 49.37 seconds
+INFO:src.pdf_processor:Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf
+INFO:src.pdf_processor:Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf took 0.04 seconds
+INFO:src.pdf_processor:Summarization for C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf took 42.72 seconds
+INFO:src.pdf_processor:Keyword extraction for C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf took 0.15 seconds
+ERROR:src.database_handler:Error updating MongoDB for pdf9.pdf: object UpdateResult can't be used in 'await' expression
+INFO:src.pdf_processor:Database update for C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf took 0.00 seconds
+INFO:src.pdf_processor:Processed C:\Users\acer\Desktop\Task_pdfs\pdf9.pdf in 42.91 seconds
+2024-10-12 09:25:43,360 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 09:25:43,361 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf
+2024-10-12 09:25:43,589 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 0.23 seconds
+2024-10-12 09:25:43,589 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:43,589 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf
+2024-10-12 09:25:43,645 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 0.06 seconds
+2024-10-12 09:25:43,645 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:43,645 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf
+2024-10-12 09:25:44,197 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 0.55 seconds
+2024-10-12 09:25:44,197 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:44,197 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf
+2024-10-12 09:25:44,247 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 0.05 seconds
+2024-10-12 09:25:44,247 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:44,247 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf
+2024-10-12 09:25:44,670 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 0.42 seconds
+2024-10-12 09:25:44,670 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:44,670 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf
+2024-10-12 09:25:44,718 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 0.05 seconds
+2024-10-12 09:25:44,719 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:25:44,719 - __main__ - INFO - Processed 0 out of 6 PDFs successfully
+2024-10-12 09:25:44,719 - __main__ - INFO - Total processing time: 1.36 seconds
+2024-10-12 09:25:44,719 - __main__ - INFO - Average processing time per document: 0.23 seconds
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf
+
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf
+
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf
+
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf
+
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf
+
+2024-10-12 09:25:44,719 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf
+
+2024-10-12 09:28:53,598 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 09:28:53,599 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf
+2024-10-12 09:28:53,823 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf took 0.22 seconds
+2024-10-12 09:28:53,823 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:53,823 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf
+2024-10-12 09:28:53,872 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf took 0.05 seconds
+2024-10-12 09:28:53,872 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:53,872 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf
+2024-10-12 09:28:54,386 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf took 0.51 seconds
+2024-10-12 09:28:54,386 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:54,386 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf
+2024-10-12 09:28:54,429 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf took 0.04 seconds
+2024-10-12 09:28:54,429 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:54,429 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf
+2024-10-12 09:28:54,804 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf took 0.38 seconds
+2024-10-12 09:28:54,804 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:54,804 - src.pdf_processor - INFO - Starting to process C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf
+2024-10-12 09:28:54,848 - src.pdf_processor - INFO - Text extraction for C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf took 0.04 seconds
+2024-10-12 09:28:54,848 - src.pdf_processor - ERROR - Error processing C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf: summarize_text() takes 1 positional argument but 2 were given
+2024-10-12 09:28:54,848 - __main__ - INFO - Processed 0 out of 6 PDFs successfully
+2024-10-12 09:28:54,848 - __main__ - INFO - Total processing time: 1.25 seconds
+2024-10-12 09:28:54,848 - __main__ - INFO - Average processing time per document: 0.21 seconds
+2024-10-12 09:28:54,848 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf1.pdf
+
+2024-10-12 09:28:54,848 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf2.pdf
+
+2024-10-12 09:28:54,848 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf3.pdf
+
+2024-10-12 09:28:54,849 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf4.pdf
+
+2024-10-12 09:28:54,849 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf5.pdf
+
+2024-10-12 09:28:54,849 - __main__ - ERROR - 
+Failed to process C:\Users\acer\Desktop\Task_pdfs\pdf6.pdf
+
+2024-10-12 09:31:05,868 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 09:31:07,466 - __main__ - ERROR - An error occurred during execution: 'PerformanceMonitor' object has no attribute 'report_filename'
+2024-10-12 09:35:27,045 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 09:39:37,320 - src.database_handler - INFO - Document inserted with id: 6709f5ad2af0e649bf22f8b0
+2024-10-12 09:39:37,322 - src.database_handler - INFO - Document inserted with id: 6709f5cf2af0e649bf22f8b1
+2024-10-12 09:39:37,323 - src.database_handler - INFO - Document inserted with id: 6709f6002af0e649bf22f8b2
+2024-10-12 09:39:37,324 - src.database_handler - INFO - Document inserted with id: 6709f6232af0e649bf22f8b3
+2024-10-12 09:39:37,325 - src.database_handler - INFO - Document inserted with id: 6709f6502af0e649bf22f8b4
+2024-10-12 09:39:37,327 - src.database_handler - INFO - Document inserted with id: 6709f6812af0e649bf22f8b5
+2024-10-12 09:39:37,341 - __main__ - ERROR - An error occurred during execution: 'PerformanceMonitor' object has no attribute 'report_filename'
+2024-10-12 09:48:49,671 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 09:50:53,218 - src.database_handler - INFO - Document inserted with id: 6709f8d12af0e649bf22f8b6
+2024-10-12 09:50:53,219 - src.database_handler - INFO - Document inserted with id: 6709f8f52af0e649bf22f8b7
+2024-10-12 09:50:53,221 - src.database_handler - INFO - Document inserted with id: 6709f9252af0e649bf22f8b8
+2024-10-12 10:10:05,028 - __main__ - INFO - Successfully connected to MongoDB
+2024-10-12 10:16:41,462 - src.database_handler - INFO - Document updated: 0 modified
+2024-10-12 10:16:41,465 - src.database_handler - INFO - Document inserted with id: 6709fde42af0e649bf22f8b9
+2024-10-12 10:16:41,465 - src.database_handler - INFO - Document inserted with id: 6709fe0e2af0e649bf22f8ba
+2024-10-12 10:16:41,466 - src.database_handler - INFO - Document inserted with id: 6709fe3e2af0e649bf22f8bb
+2024-10-12 10:16:41,466 - src.database_handler - INFO - Document inserted with id: 6709fe6b2af0e649bf22f8bc
+2024-10-12 10:16:41,467 - src.database_handler - INFO - Document inserted with id: 6709fe892af0e649bf22f8bd
+2024-10-12 10:16:41,467 - src.database_handler - INFO - Document inserted with id: 6709febb2af0e649bf22f8be
+2024-10-12 10:16:41,468 - src.database_handler - INFO - Document inserted with id: 6709fee62af0e649bf22f8bf
+2024-10-12 10:16:41,469 - src.database_handler - INFO - Document inserted with id: 6709fefa2af0e649bf22f8c0
+2024-10-12 10:23:00,726 - src.database_handler - INFO - Document inserted with id: 6709ff312af0e649bf22f8c1
+2024-10-12 10:23:00,728 - src.database_handler - INFO - Document updated: 0 modified
+2024-10-12 10:23:00,730 - src.database_handler - INFO - Document updated: 0 modified
+2024-10-12 10:23:00,732 - src.database_handler - INFO - Document inserted with id: 6709ffb62af0e649bf22f8c2
+2024-10-12 10:23:00,734 - src.database_handler - INFO - Document inserted with id: 6709ffdf2af0e649bf22f8c3
+2024-10-12 10:23:00,736 - src.database_handler - INFO - Document inserted with id: 670a000a2af0e649bf22f8c4
+2024-10-12 10:23:00,738 - src.database_handler - INFO - Document inserted with id: 670a00262af0e649bf22f8c5
+2024-10-12 10:23:00,740 - src.database_handler - INFO - Document inserted with id: 670a00602af0e649bf22f8c6
+2024-10-12 10:23:00,743 - src.database_handler - INFO - Document inserted with id: 670a00ac2af0e649bf22f8c7
+2024-10-12 10:27:09,569 - __main__ - INFO - Successfully connected to MongoDB
